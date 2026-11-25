@@ -92,9 +92,3 @@ Three presets: **Performance** (light renderer, for old CPUs and integrated GPUs
 ## Online
 
 Main menu → **Online**. The host needs UDP ports 7777–7778 open (UPnP is available in the game), or everybody can use a VPN such as ZeroTier, Radmin VPN or Tailscale. Everyone must run the same game version.
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md).
-
-Built with [Godot Engine](https://godotengine.org) 4.
