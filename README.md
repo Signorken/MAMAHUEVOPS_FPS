@@ -1,7 +1,5 @@
 <img width="1200" height="630" alt="Mamahuevops_GH" src="https://github.com/user-attachments/assets/a12311ee-de03-450f-adf3-bb29dc55611a" />
 
-**FREE - PACED - SKILLED**
-
 **Mamahuevops** is an arena FPS heavily inspired by the genre's great cult classics, such as Quake, Unreal Tournament, Serious Sam and TimeSplitters, with Bots, online play, full gamepad support and local split-screen for up to 4 players.
 
 **Platforms:** Windows · Linux · macOS (Apple Silicon + Intel)
