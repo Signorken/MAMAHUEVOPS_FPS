@@ -1,26 +1,10 @@
-# MAMAHUEVOPS
+<img width="1200" height="630" alt="Mamahuevops_GH" src="https://github.com/user-attachments/assets/a12311ee-de03-450f-adf3-bb29dc55611a" />
 
-Fast arena FPS in the spirit of early-2000s console shooters. Bots, online play, full gamepad support and local split-screen for up to 4 players.
+**FREE - PACED - SKILLED**
+
+**Mamahuevops** is an arena FPS heavily inspired by the genre's great cult classics, such as Quake, Unreal Tournament, Serious Sam and TimeSplitters, with Bots, online play, full gamepad support and local split-screen for up to 4 players.
 
 **Platforms:** Windows · Linux · macOS (Apple Silicon + Intel)
-
-## Download
-
-Get the latest ZIP for your system from the [Releases](../../releases/latest) page, unzip and run.
-
-- **Windows:** run `MAMAHUEVOPS.exe`
-- **Linux:** `chmod +x MAMAHUEVOPS.x86_64`, then run it
-- **macOS:** right-click the app → Open on first launch (the app is not notarized)
-
-The game checks for updates by itself (main menu → *Check for updates*). On Windows and Linux only the game data is downloaded.
-
-## Highlights
-
-- **Full gamepad support**: Xbox / PlayStation icons, weapon wheel, adjustable look speed, turn acceleration and dead zone, aim assist (Low / Standard), full rebinding.
-- **Local split-screen, 2–4 players**: any mix of gamepads, plus one keyboard + mouse. Each player picks a colour and joins in their own quadrant.
-- **Online**: host or join with direct IP, LAN or the server browser; up to 8 players, bots fill the rest.
-- **Bots** with three difficulty levels, used in every mode.
-- 5 maps, 8 weapons, 4 powerups.
 
 ## Game modes
 
@@ -33,7 +17,6 @@ The game checks for updates by itself (main menu → *Check for updates*). On Wi
 | **Gun Game** | Everyone climbs the same weapon ladder, 2 kills per weapon, finishing with the Knife. A melee kill sends the victim one level back. |
 | **Last Man Standing** | Fixed number of lives, the last survivor wins. |
 
-Kill, score and time limits are configurable; every limit can be turned off.
 
 ## Weapons
 
@@ -50,20 +33,15 @@ Each weapon has a primary and an alternate fire.
 | Rocket Launcher | Rocket | Salvo of 3 |
 | Railgun | One-shot kill through everyone in line, then overheats | Zoom |
 
-A melee strike is available with any weapon. Only the Railgun can zoom.
-
 ## Powerups
-
 - **Double Damage**: ×2 damage.
 - **Invisibility**: nearly invisible.
 - **Shield**: takes 25% of the damage.
 - **Speed**: much faster.
 
-Health and armor go up to 200 (megas).
-
 ## Maps
 
-Bunker · Campgrounds · Foundry · Open Field · Shipment · Rooftops **(NEW)**
+Bunker · Campgrounds · Foundry · Open Field · Shipment · Rooftops **(0.1)**
 
 Capture the Flag is available on Foundry - Shipment - Rooftops.
 
@@ -79,16 +57,27 @@ Capture the Flag is available on Foundry - Shipment - Rooftops.
 | Melee | F | L3 |
 | Scoreboard / Pause | Tab / Esc | Back / Start |
 
-Everything can be rebound in *Options → Controls*.
-
-## Split-screen
+## Local Split-Screen
 
 Main menu → **Play** → **Split screen**. Choose 2, 3 or 4 players, then each player presses **A** on their gamepad (or **Enter** for keyboard + mouse) to join. Player 1 starts the match.
 
-## Graphics
+## Retro-style Graphics
 
 Three presets: **Performance** (light renderer, for old CPUs and integrated GPUs), **Balanced** and **Quality**. FPS cap up to 300, optional VSync, adjustable field of view. A built-in **Benchmark** (main menu) measures your average and 1% low FPS.
 
-## Online
+## How to play Online
 
 Main menu → **Online**. The host needs UDP ports 7777–7778 open (UPnP is available in the game), or everybody can use a VPN such as ZeroTier, Radmin VPN or Tailscale. Everyone must run the same game version.
+
+## Download
+
+Get the latest ZIP for your system from the [Releases](../../releases/latest) page, unzip and run.
+
+- **Windows:** run `MAMAHUEVOPS.exe`
+- **Linux:** `chmod +x MAMAHUEVOPS.x86_64`, then run it
+- **macOS:** right-click the app → Open on first launch (the app is not notarized)
+
+The game checks for updates by itself (main menu → *Check for updates*). On Windows and Linux only the game data is downloaded.
+
+
+_This game was intented as a hobby, for online evenings with friends and as a way to learn how to use game engines and 3D modeling software. It's a non-profit project, made with the help of AI tools._
