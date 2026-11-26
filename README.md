@@ -63,9 +63,9 @@ Health and armor go up to 200 (megas).
 
 ## Maps
 
-Bunker · Campgrounds · Foundry · Open Field · Shipment
+Bunker · Campgrounds · Foundry · Open Field · Shipment · Rooftops **(NEW)**
 
-Capture the Flag is available on Foundry and Shipment.
+Capture the Flag is available on Foundry - Shipment - Rooftops.
 
 ## Controls
 
